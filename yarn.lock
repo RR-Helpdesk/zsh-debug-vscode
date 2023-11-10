@@ -162,9 +162,9 @@
   resolved "https://registry.npmjs.org/@types/vscode/-/vscode-1.84.1.tgz"
   integrity sha512-DB10vBRLEPA/us7p3gQilU2Tq5HDu6JWTyCpD9qtb7MKWIvJS5In9HU3YgVGCXf/miwHJiY62aXwjtUSMpT8HA==
 
-"@vscode/debugadapter-testsupport@^1.64.0":
+"@vscode/debugadapter-testsupport@^1.59.0":
   version "1.64.0"
-  resolved "https://registry.yarnpkg.com/@vscode/debugadapter-testsupport/-/debugadapter-testsupport-1.64.0.tgz#c425c309f0b2f75b6ce2c83bb70c32de86b9c2ea"
+  resolved "https://registry.npmjs.org/@vscode/debugadapter-testsupport/-/debugadapter-testsupport-1.64.0.tgz"
   integrity sha512-0XSaJ7y7gPWyaoDJlMBaQTAuP3BiNVhG0FiZBxC8msLWMPq73mOU0k4RsEtmbPAu10BxPJjFnoPco4rb1NzXeA==
   dependencies:
     "@vscode/debugprotocol" "1.64.0"
@@ -1559,6 +1559,11 @@ isexe@^2.0.0:
   resolved "https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
+isexe@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.npmjs.org/isexe/-/isexe-3.1.1.tgz"
+  integrity sha512-LpB/54B+/2J5hqQ7imZHfdU31OlgQqx7ZicVlkm9kzg9/w8GKLEcFfJl/t7DCEDueOyBAD6zCCwTO6Fzs0NoEQ==
+
 js-tokens@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz"
@@ -2902,12 +2907,12 @@ which@^2.0.1:
   dependencies:
     isexe "^2.0.0"
 
-which@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/which/-/which-3.0.1.tgz"
-  integrity sha512-XA1b62dzQzLfaEOSQFTCOd5KFf/1VSzZo7/7TUjnya6u0vGGKzU96UQBZTAThCb2j4/xjBAyii1OhRLJEivHvg==
+which@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.npmjs.org/which/-/which-4.0.0.tgz"
+  integrity sha512-GlaYyEb07DPxYCKhKzplCWBJtvxZcZMrL+4UkrTSJHHPyZU4mYYTv3qaOe77H7EODLSSopAUFAc6W8U4yqvscg==
   dependencies:
-    isexe "^2.0.0"
+    isexe "^3.1.1"
 
 wordwrap@^1.0.0:
   version "1.0.0"
