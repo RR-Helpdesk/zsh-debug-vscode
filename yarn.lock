@@ -162,29 +162,29 @@
   resolved "https://registry.npmjs.org/@types/vscode/-/vscode-1.84.1.tgz"
   integrity sha512-DB10vBRLEPA/us7p3gQilU2Tq5HDu6JWTyCpD9qtb7MKWIvJS5In9HU3YgVGCXf/miwHJiY62aXwjtUSMpT8HA==
 
-"@vscode/debugadapter-testsupport@^1.64.0":
+"@vscode/debugadapter-testsupport@^1.59.0":
   version "1.64.0"
-  resolved "https://registry.yarnpkg.com/@vscode/debugadapter-testsupport/-/debugadapter-testsupport-1.64.0.tgz#c425c309f0b2f75b6ce2c83bb70c32de86b9c2ea"
+  resolved "https://registry.npmjs.org/@vscode/debugadapter-testsupport/-/debugadapter-testsupport-1.64.0.tgz"
   integrity sha512-0XSaJ7y7gPWyaoDJlMBaQTAuP3BiNVhG0FiZBxC8msLWMPq73mOU0k4RsEtmbPAu10BxPJjFnoPco4rb1NzXeA==
   dependencies:
     "@vscode/debugprotocol" "1.64.0"
 
-"@vscode/debugadapter@^1.59.0":
-  version "1.63.0"
-  resolved "https://registry.npmjs.org/@vscode/debugadapter/-/debugadapter-1.63.0.tgz"
-  integrity sha512-d2eAnYCZkKJ0C28gT93KPi5YXFav8VyagcxkJ94LZ8qqgJ27+2ct26MOHGYKB8L25ZdDs8A4YmyJO32J0afhNQ==
+"@vscode/debugadapter@^1.65.0":
+  version "1.65.0"
+  resolved "https://registry.yarnpkg.com/@vscode/debugadapter/-/debugadapter-1.65.0.tgz#1a318aea805a86da8d497f3b80f4506bdb12e866"
+  integrity sha512-l9jdX0GFoFVAc7O4O8iVnCjO0pgxbx+wJJXCaYSuglGtYwMNcJdc7xm96cuVx4LWzSqneIjvjzbuzZtoVZhZzQ==
   dependencies:
-    "@vscode/debugprotocol" "1.63.0"
-
-"@vscode/debugprotocol@1.63.0":
-  version "1.63.0"
-  resolved "https://registry.npmjs.org/@vscode/debugprotocol/-/debugprotocol-1.63.0.tgz"
-  integrity sha512-7gewwv69pA7gcJUhtJsru5YN7E1AwwnlBrF5mJY4R/NGInOUqOYOWHlqQwG+4AXn0nXWbcn26MHgaGI9Q26SqA==
+    "@vscode/debugprotocol" "1.65.0"
 
 "@vscode/debugprotocol@1.64.0", "@vscode/debugprotocol@^1.59.0":
   version "1.64.0"
   resolved "https://registry.npmjs.org/@vscode/debugprotocol/-/debugprotocol-1.64.0.tgz"
   integrity sha512-Zhf3KvB+J04M4HPE2yCvEILGVtPixXUQMLBvx4QcAtjhc5lnwlZbbt80LCsZO2B+2BH8RMgVXk3QQ5DEzEne2Q==
+
+"@vscode/debugprotocol@1.65.0":
+  version "1.65.0"
+  resolved "https://registry.yarnpkg.com/@vscode/debugprotocol/-/debugprotocol-1.65.0.tgz#304a9e0f4f2825a66db4647148d4b2ec6372f17e"
+  integrity sha512-ejerrPMBXzYms6Ks+Gb7cdXtdncmT0xwIKNsc0c/SxhEa0HVY5jdvLUegYE91p7CQJpCnXOD/r2CvViN8txLLA==
 
 "@vscode/vsce@^2.19.0":
   version "2.20.0"
