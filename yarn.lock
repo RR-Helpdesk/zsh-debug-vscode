@@ -157,14 +157,14 @@
   resolved "https://registry.npmjs.org/@types/normalize-package-data/-/normalize-package-data-2.4.1.tgz"
   integrity sha512-Gj7cI7z+98M282Tqmp2K5EIsoouUEzbBJhQQzDE3jSIRk6r9gsz0oUokqIUR4u1R3dMHo0pDHM7sNOHyhulypw==
 
-"@types/vscode@^1.78.1":
-  version "1.84.1"
-  resolved "https://registry.npmjs.org/@types/vscode/-/vscode-1.84.1.tgz"
-  integrity sha512-DB10vBRLEPA/us7p3gQilU2Tq5HDu6JWTyCpD9qtb7MKWIvJS5In9HU3YgVGCXf/miwHJiY62aXwjtUSMpT8HA==
+"@types/vscode@^1.87.0":
+  version "1.87.0"
+  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.87.0.tgz#ee9b163f3d2115fb0b20619b34dd3abc5a923361"
+  integrity sha512-y3yYJV2esWr8LNjp3VNbSMWG7Y43jC8pCldG8YwiHGAQbsymkkMMt0aDT1xZIOFM2eFcNiUc+dJMx1+Z0UT8fg==
 
-"@vscode/debugadapter-testsupport@^1.64.0":
+"@vscode/debugadapter-testsupport@^1.59.0":
   version "1.64.0"
-  resolved "https://registry.yarnpkg.com/@vscode/debugadapter-testsupport/-/debugadapter-testsupport-1.64.0.tgz#c425c309f0b2f75b6ce2c83bb70c32de86b9c2ea"
+  resolved "https://registry.npmjs.org/@vscode/debugadapter-testsupport/-/debugadapter-testsupport-1.64.0.tgz"
   integrity sha512-0XSaJ7y7gPWyaoDJlMBaQTAuP3BiNVhG0FiZBxC8msLWMPq73mOU0k4RsEtmbPAu10BxPJjFnoPco4rb1NzXeA==
   dependencies:
     "@vscode/debugprotocol" "1.64.0"
